@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-marketplace.json",
+  "name": "eec",
+  "version": "1.0.0",
+  "description": "Personal skills marketplace for reuse across future Claude Code projects",
+  "owner": {
+    "name": "BG-Guy"
+  },
+  "plugins": [
+    {
+      "name": "ecc-skills",
+      "description": "292 reusable Claude Code skills vendored from affaan-m/ECC",
+      "source": "./ecc",
+      "category": "productivity",
+      "version": "1.0.0"
+    }
+  ]
+}
