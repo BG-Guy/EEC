@@ -1,0 +1,8 @@
+{
+  "name": "ecc-skills",
+  "description": "292 reusable Claude Code skills vendored from affaan-m/ECC",
+  "version": "1.0.0",
+  "repository": "https://github.com/affaan-m/ECC",
+  "license": "MIT",
+  "skills": "./skills/"
+}
